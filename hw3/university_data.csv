@@ -1,0 +1,312 @@
+act_avg,sat_avg,enrollment,city,acceptance_rate,percent_receiving_aid,cost_after_aid,state,hs_gpa_avg,tuition,Institution_name,institution_type,us_rank
+32,1400,5400,Princeton,7,60,16793,NJ,3.9,47140,Princeton University,private,1
+32,1430,6710,Cambridge,5,55,16338,MA,4,48949,Harvard University,private,2
+32,1450,5941,Chicago,8,42,27767,IL,4,54825,University of Chicago,private,3
+32,1420,5472,New Haven,6,50,18385,CT,NA,51400,Yale University,private,3
+32,1430,6113,New York,6,48,21041,NY,NA,57208,Columbia University,private,5
+33,1460,4524,Cambridge,8,58,20331,MA,NA,49892,Massachusetts Institute of Technology,private,5
+31,1380,7034,Stanford,5,47,19296,CA,NA,49617,Stanford University,private,5
+32,1380,10019,Philadelphia,9,47,25441,PA,3.9,53534,University of Pennsylvania,private,8
+31,1380,6609,Durham,11,41,23374,NC,NA,53744,Duke University,private,9
+34,1510,979,Pasadena,8,51,23973,CA,NA,49908,California Institute of Technology,private,10
+30,1350,4310,Hanover,11,50,23312,NH,NA,52950,Dartmouth College,private,11
+32,1420,6117,Baltimore,12,45,30067,MD,3.9,52170,Johns Hopkins University,private,11
+32,1400,8353,Evanston,11,43,31087,IL,NA,52678,Northwestern University,private,11
+31,1370,6926,Providence,9,41,24482,RI,NA,53419,Brown University,private,14
+31,1330,14566,Ithaca,14,44,28068,NY,NA,52853,Cornell University,private,14
+32,1410,3893,Houston,15,37,23996,TX,NA,45608,Rice University,private,14
+32,1420,6871,Nashville,11,46,23323,TN,3.8,47664,Vanderbilt University,private,14
+32,1350,8530,Notre Dame,19,47,29653,IN,NA,51505,University of Notre Dame,private,18
+32,1400,7540,St. Louis,17,41,29245,MO,NA,51533,Washington University in St. Louis,private,18
+30,1320,7453,Washington,17,34,29667,DC,NA,52300,Georgetown University,private,20
+30,1290,6861,Atlanta,25,42,24264,GA,3.7,49392,Emory University,private,21
+29,1300,29311,Berkeley,16,23,49614,CA,3.9,42112,University of California--Berkeley,public,21
+25,1160,30873,Los Angeles,18,15,42896,CA,3.9,41270,University of California--Los Angeles,public,21
+30,1280,18794,Los Angeles,17,33,33112,CA,3.7,54259,University of Southern California,private,21
+31,1380,6673,Pittsburgh,22,40,33550,PA,3.8,53910,Carnegie Mellon University,private,25
+29,1240,16331,Charlottesville,30,28,28079,VA,4,46975,University of Virginia,public,25
+28,1240,4955,Winston-Salem,30,30,24241,NC,NA,51400,Wake Forest University,private,27
+29,1310,28983,Ann Arbor,29,25,32856,MI,3.8,47476,University of Michigan--Ann Arbor,public,28
+31,1370,5508,Medford,14,34,27034,MA,NA,54318,Tufts University,private,29
+29,1250,26135,New York,32,46,41783,NY,3.6,50464,New York University,private,30
+27,1190,18523,Chapel Hill,27,41,17815,NC,4,34588,University of North Carolina--Chapel Hill,public,30
+30,1260,9309,Chestnut Hill,31,35,30170,MA,NA,53346,Boston College,private,32
+28,1250,6276,Williamsburg,37,21,42153,VA,NA,43099,College of William and Mary,public,32
+29,1270,3608,Waltham,33,47,29288,MA,3.9,53582,Brandeis University,private,34
+30,1320,15489,Atlanta,26,15,39518,GA,3.9,33014,Georgia Institute of Technology,public,34
+29,1250,6386,Rochester,38,51,28476,NY,NA,52020,University of Rochester,private,34
+28,1220,17944,Boston,29,36,34539,MA,3.6,52082,Boston University,private,37
+30,1280,5152,Cleveland,35,48,35248,OH,NA,47500,Case Western Reserve University,private,37
+25,1140,21574,Santa Barbara,36,8,44849,CA,4,42423,University of California--Santa Barbara,public,37
+31,1330,13473,Boston,29,34,38521,MA,NA,49497,Northeastern University,private,40
+29,1250,6377,New Orleans,26,31,35111,LA,3.5,52960,Tulane University,private,40
+28,1280,6265,Troy,44,61,35125,NY,3.9,52305,Rensselaer Polytechnic Institute,private,42
+NA,1060,27331,Irvine,41,6,43506,CA,4,43530,University of California--Irvine,public,42
+25,1140,28127,La Jolla,36,7,42933,CA,4,44197,University of California--San Diego,public,42
+27,1180,34554,Gainesville,46,20,36825,FL,4,28658,University of Florida,public,42
+29,1230,5080,Bethlehem,26,38,25376,PA,NA,50740,Lehigh University,private,46
+26,1110,3542,Malibu,37,51,32416,CA,3.6,51992,Pepperdine University,private,46
+24,1050,29546,Davis,42,9,44075,CA,4,42396,University of California--Davis,public,46
+28,1210,10849,Coral Gables,38,33,34479,FL,3.6,48484,University of Miami,private,46
+27,1234,31710,Madison,53,16,36113,WI,3.8,34782,University of Wisconsin--Madison,public,46
+30,1220,6999,Villanova,44,44,35459,PA,3.7,51434,Villanova University,private,46
+25,1090,41359,University Park,56,14,41789,PA,3.6,33664,Pennsylvania State University--University Park,public,52
+26,1280,33932,Champaign,60,9,35977,IL,NA,31988,University of Illinois--Urbana-Champaign,public,52
+27,1160,45831,Columbus,54,9,37032,OH,NA,29659,Ohio State University--Columbus,public,54
+26,1140,27951,Athens,54,13,30943,GA,4,30392,University of Georgia,public,54
+27,1180,11504,Washington,40,43,37996,DC,NA,53518,George Washington University,private,56
+25,1080,30043,West Lafayette,56,16,28383,IN,3.7,28804,Purdue University--West Lafayette,public,56
+26,1130,19324,Storrs,49,33,37427,CT,NA,36948,University of Connecticut,public,56
+26,1140,40168,Austin,40,7,40558,TX,NA,35766,University of Texas--Austin,public,56
+26,1120,30933,Seattle,45,20,47746,WA,3.8,35538,University of Washington,public,56
+27,1160,30979,Provo,51,38,13186,UT,3.8,5460,Brigham Young University--Provo,private,61
+27,1170,9258,New York,45,NA,NA,NY,3.6,50601,Fordham University,private,61
+28,1220,6521,Dallas,49,24,47874,TX,3.7,52498,Southern Methodist University,private,61
+25,1090,15218,Syracuse,52,48,33912,NY,3.6,46755,Syracuse University,private,61
+28,1210,28472,College Park,48,20,36786,MD,4,33606,University of Maryland--College Park,public,61
+28,1200,4432,Worcester,48,62,39995,MA,3.8,48628,Worcester Polytechnic Institute,private,61
+26,1150,18599,Clemson,51,7,38923,SC,4,35654,Clemson University,public,67
+27,1190,19123,Pittsburgh,55,NA,NA,PA,4,30642,University of Pittsburgh,public,68
+26,1150,7901,Washington,26,46,36076,DC,3.7,46615,American University,private,69
+NA,1110,36168,Piscataway,57,13,40121,NJ,NA,30023,Rutgers University--New Brunswick,public,69
+29,1260,3021,Hoboken,39,40,51810,NJ,3.8,50554,Stevens Institute of Technology,private,69
+24,1070,50735,College Station,66,41,26376,TX,NA,30208,Texas A&M University--College Station,public,69
+26,1180,34871,Minneapolis,44,23,28170,MN,NA,26603,University of Minnesota--Twin Cities,public,69
+NA,1100,25791,Blacksburg,71,NA,NA,VA,3.9,29371,Virginia Tech,public,69
+26,1120,14348,Waco,40,53,36761,TX,NA,43790,Baylor University,private,75
+29,1250,4612,Golden,40,21,47042,CO,3.8,37436,Colorado School of Mines,public,75
+25,1130,23373,Amherst,60,35,35445,MA,3.8,33662,University of Massachusetts--Amherst,public,75
+26,1130,16981,Oxford,65,10,42507,OH,3.8,32768,Miami University--Oxford,public,78
+25,1070,8891,Fort Worth,38,35,33953,TX,NA,44760,Texas Christian University,private,78
+23,1020,24476,Iowa City,84,34,32794,IA,3.6,28813,University of Iowa,public,78
+27,1110,2289,Worcester,55,62,27702,MA,3.7,44400,Clark University,private,81
+25,1110,32929,Tallahassee,58,27,34036,FL,NA,21673,Florida State University,public,81
+24,990,39090,East Lansing,66,5,47279,MI,3.7,39405,Michigan State University,public,81
+27,1170,23847,Raleigh,46,41,25623,NC,3.7,27406,North Carolina State University--Raleigh,public,81
+23,1060,16962,Santa Cruz,59,18,47616,CA,3.7,42042,University of California--Santa Cruz,public,81
+23,1090,18374,Newark,65,NA,NA,DE,3.7,32250,University of Delaware,public,81
+28,1230,13632,Binghamton,41,54,29356,NY,3.7,24403,Binghamton University--SUNY,public,87
+26,1110,5754,Denver,53,40,31393,CO,3.7,48669,University of Denver,private,87
+26,1120,3406,Tulsa,37,15,49957,OK,3.9,39502,University of Tulsa,private,87
+24,1060,39184,Bloomington,79,16,37563,IN,3.7,34845,Indiana University--Bloomington,public,90
+24,1040,8238,Milwaukee,74,55,32894,WI,NA,39900,Marquette University,private,90
+25,1070,27846,Boulder,77,12,41125,CO,3.7,35079,University of Colorado--Boulder,public,90
+26,1100,5711,San Diego,51,48,36861,CA,3.9,47708,University of San Diego,private,90
+25,1080,13251,Philadelphia,75,54,42176,PA,3.7,52002,Drexel University,private,94
+24,1120,7454,St. Louis,65,51,28328,MO,3.9,42166,Saint Louis University,private,94
+23,1090,2714,New York,51,46,34756,NY,3.5,42000,Yeshiva University,private,94
+26,1140,12410,Rochester,55,70,31793,NY,NA,40068,Rochester Institute of Technology,private,97
+26,1150,17026,Stony Brook,41,13,34024,NY,3.8,26297,Stony Brook University--SUNY,public,97
+23,1070,1755,Syracuse,54,NA,NA,NY,3.7,18090,SUNY College of Environmental Science and Forestry,public,97
+24,1070,20411,Buffalo,59,28,37040,NY,3.6,26270,University at Buffalo--SUNY,public,97
+23,1060,22436,Norman,71,13,35144,OK,3.6,24443,University of Oklahoma,public,97
+25,1100,11159,Burlington,69,48,36399,VT,3.6,41356,University of Vermont,public,97
+24,1060,22658,Auburn,81,16,39912,AL,3.9,29640,Auburn University,public,103
+26,1130,2944,Chicago,57,62,29116,IL,4,45864,Illinois Institute of Technology,private,103
+24,1030,11129,Chicago,73,64,38093,IL,3.7,42828,Loyola University Chicago,private,103
+22,990,12871,Durham,76,56,34826,NH,3.5,32637,University of New Hampshire,public,103
+22,980,20049,Eugene,78,7,42682,OR,3.6,34611,University of Oregon,public,103
+25,1120,25556,Columbia,68,8,41810,SC,NA,32362,University of South Carolina,public,103
+24,1040,22139,Knoxville,77,33,39170,TN,3.9,31160,University of Tennessee,public,103
+22,1040,5899,Washington,30,50,33124,DC,3.5,25697,Howard University,private,110
+23,980,32563,Tuscaloosa,53,27,26861,AL,3.7,28100,University of Alabama,public,110
+23,1030,6745,San Francisco,71,46,42433,CA,3.4,46250,University of San Francisco,private,110
+23,1030,3483,Stockton,66,67,37188,CA,3.5,46346,University of the Pacific,private,110
+21,1050,23789,Salt Lake City,76,11,35873,UT,3.6,26408,University of Utah,public,110
+22,1020,42477,Tempe,83,31,37446,AZ,3.5,27372,Arizona State University--Tempe,public,115
+22,980,30671,Ames,87,34,27241,IA,3.6,22256,Iowa State University,public,115
+24,1050,29275,Philadelphia,52,37,35109,PA,3.6,27266,Temple University,public,115
+23,NA,19262,Lawrence,93,30,30962,KS,3.6,26592,University of Kansas,public,115
+24,1050,6111,St. Paul,83,55,34299,MN,3.6,41133,University of St. Thomas,private,115
+23,1040,3241,Washington,80,54,35518,DC,3.4,44060,The Catholic University of America,private,120
+22,1030,15407,Chicago,70,59,42438,IL,3.6,39010,DePaul University,private,120
+24,1055,6039,Pittsburgh,74,65,29185,PA,3.7,36394,Duquesne University,private,120
+23,1020,25898,Columbia,75,33,27962,MO,NA,26506,University of Missouri,public,120
+24,1080,3268,Potsdam,68,79,33669,NY,3.6,47950,Clarkson University,private,124
+22,1020,25177,Fort Collins,78,16,39497,CO,3.6,29140,Colorado State University,public,124
+25,1073,5829,Houghton,76,28,38217,MI,3.7,32318,Michigan Technological University,public,124
+23,1070,5956,South Orange,67,NA,NA,NJ,3.6,40588,Seton Hall University,private,124
+21,970,34072,Tucson,79,29,35051,AZ,3.5,32449,University of Arizona,public,124
+21,940,19799,Riverside,66,15,41753,CA,3.7,41931,University of California--Riverside,public,124
+24,1030,8330,Dayton,60,46,34204,OH,3.7,41750,University of Dayton,private,124
+22,990,20833,Lincoln,75,21,28968,NE,3.5,23256,University of Nebraska--Lincoln,public,124
+24,1070,6899,Hempstead,62,61,40205,NY,3.6,43960,Hofstra University,private,132
+23,1010,26118,Baton Rouge,76,14,40711,LA,3.4,28051,Louisiana State University--Baton Rouge,public,133
+25,1100,4706,Macon,69,67,26615,GA,3.8,36000,Mercer University,private,133
+23,1030,7014,New York,60,41,50853,NY,3.3,47330,The New School,private,133
+NA,910,8170,Newark,65,26,38949,NJ,NA,29480,Rutgers University--Newark,public,133
+23,1010,22548,Fayetteville,63,16,33514,AR,3.7,24308,University of Arkansas,public,133
+23,1030,25860,Cincinnati,76,28,35124,OH,3.6,26334,University of Cincinnati,public,133
+22,980,22621,Lexington,91,NA,NA,KY,3.7,28046,University of Kentucky,public,133
+24,1060,23812,Fairfax,81,39,38588,VA,3.7,34370,George Mason University,public,140
+23,1110,8211,Newark,59,35,18674,NJ,3.5,31034,New Jersey Institute of Technology,public,140
+23,1000,29853,San Diego,35,32,31354,CA,3.7,19340,San Diego State University,public,140
+24,1070,31461,Tampa,47,25,23103,FL,3.9,17324,University of South Florida,public,140
+20,930,24904,Pullman,72,37,30666,WA,3.4,25817,Washington State University,public,140
+22,950,19472,Manhattan,94,22,34621,KS,3.5,24775,Kansas State University,public,145
+22,990,25327,Corvallis,77,34,36636,OR,3.7,29457,Oregon State University,public,145
+22,970,2786,Rochester,65,81,28750,NY,3.6,33120,St. John Fisher College,private,145
+21,990,17959,Chicago,74,31,39033,IL,3.3,27672,University of Illinois--Chicago,public,145
+22,1000,19213,University,78,24,27943,MS,3.6,23554,University of Mississippi,public,145
+25,1140,17350,Richardson,68,28,37028,TX,NA,33654,University of Texas--Dallas,public,145
+22,1010,5205,Garden City,70,NA,NA,NY,3.6,37170,Adelphi University,private,151
+24,1060,3629,Melbourne,61,NA,NA,FL,3.6,41240,Florida Institute of Technology,private,151
+21,990,23788,Athens,75,NA,NA,OH,3.5,21360,Ohio University,public,151
+21,990,3095,Seattle,87,NA,NA,WA,3.5,40893,Seattle Pacific University,private,151
+22,1010,13139,Albany,54,NA,NA,NY,3.2,24358,University at Albany--SUNY,public,151
+21,970,21093,Stillwater,75,NA,NA,OK,3.5,23776,Oklahoma State University,public,156
+24,1070,13639,Lowell,60,NA,NA,MA,3.6,31865,University of Massachusetts--Lowell,public,156
+22,990,14801,Kingston,71,NA,NA,RI,3.5,28874,University of Rhode Island,public,156
+21,950,4091,La Mirada,65,NA,NA,CA,3.5,38448,Biola University,private,159
+21,NA,18643,Normal,89,NA,NA,IL,3.4,25168,Illinois State University,public,159
+21,965,12369,Birmingham,89,NA,NA,AL,3.7,23790,University of Alabama--Birmingham,public,159
+21,970,13132,Honolulu,80,NA,NA,HI,3.5,33764,University of Hawaii--Manoa,public,159
+20,930,2809,La Verne,48,NA,NA,CA,3.5,41450,University of La Verne,private,159
+24,1120,11142,Baltimore,57,NA,NA,MD,NA,25654,University of Maryland--Baltimore County,public,159
+18,860,1555,Immaculata,82,NA,NA,PA,3.3,27350,Immaculata University,private,165
+22,900,2967,St Louis,93,NA,NA,MO,3.6,28470,Maryville University of St. Louis,private,165
+25,1186,6909,Rolla,79,NA,NA,MO,3.6,27701,Missouri University of Science & Technology,public,165
+22,970,16440,Queens,63,NA,NA,NY,3.5,40790,St. John's University,private,165
+18,860,6815,Merced,74,NA,NA,CA,3.5,41612,University of California--Merced,public,165
+22,1000,15827,Louisville,73,NA,NA,KY,3.5,26286,University of Louisville,public,165
+21,990,18090,Mississippi State,71,NA,NA,MS,3.4,22358,Mississippi State University,public,171
+NA,990,14344,Glassboro,58,NA,NA,NJ,3.5,21378,Rowan University,public,171
+24,1080,55776,Orlando,50,NA,NA,FL,3.9,22467,University of Central Florida,public,171
+21,930,9586,Moscow,76,NA,NA,ID,3.4,23812,University of Idaho,public,171
+21,980,24212,Richmond,75,NA,NA,VA,3.6,32942,Virginia Commonwealth University,public,171
+21,950,23684,Kent,85,NA,NA,OH,3.4,18376,Kent State University,public,176
+21,940,4384,Moon Township,80,NA,NA,PA,3.5,29420,Robert Morris University,private,176
+22,1020,29963,Lubbock,63,NA,NA,TX,3.5,23011,Texas Tech University,public,176
+23,1020,2214,Jackson,63,NA,NA,TN,NA,31580,Union University,private,176
+20,920,5150,West Hartford,72,NA,NA,CT,NA,38910,University of Hartford,private,176
+21,955,1661,Madison,78,NA,NA,WI,3.4,28500,Edgewood College,private,181
+21,960,1929,Cambridge,64,NA,NA,MA,3.3,26550,Lesley University,private,181
+22,990,2986,Nashville,61,NA,NA,TN,3.6,30932,Lipscomb University,private,181
+20,910,5290,Boston,84,NA,NA,MA,3.2,37270,Suffolk University,private,181
+21,950,9323,Orono,90,NA,NA,ME,3.2,30282,University of Maine,public,181
+21,960,9788,Laramie,95,NA,NA,WY,3.5,16827,University of Wyoming,public,181
+21,930,5770,Azusa,84,NA,NA,CA,3.7,36120,Azusa Pacific University,private,187
+20,990,17011,Muncie,62,NA,NA,IN,3.5,25938,Ball State University,public,187
+15,870,16810,Montclair,66,NA,NA,NJ,3.2,20566,Montclair State University,public,187
+21,940,8914,New York,84,NA,NA,NY,3.3,44036,Pace University,private,187
+21,930,22350,Morgantown,76,NA,NA,WV,3.5,23616,West Virginia University,public,187
+21,930,1688,Berrien Springs,40,NA,NA,MI,3.5,28436,Andrews University,private,192
+19,890,21748,Indianapolis,74,NA,NA,IN,3.5,29806,Indiana University-Purdue University--Indianapolis,public,192
+23,1040,35871,Houston,59,NA,NA,TX,NA,27337,University of Houston,public,192
+19,950,20215,Albuquerque,47,NA,NA,NM,3.4,22412,University of New Mexico,public,192
+21,960,11255,Grand Forks,84,NA,NA,ND,3.4,21462,University of North Dakota,public,192
+21,930,3591,Chester,70,NA,NA,PA,3.5,44166,Widener University,private,192
+18,820,12027,Las Cruces,60,NA,NA,NM,3.5,22701,New Mexico State University,public,198
+21,1000,12010,Fargo,93,NA,NA,ND,3.4,20571,North Dakota State University,public,198
+22,1000,4295,Ft. Lauderdale,53,NA,NA,FL,NA,29940,Nova Southeastern University,private,198
+22,1030,23404,Charlotte,62,NA,NA,NC,3.9,20268,University of North Carolina--Charlotte,public,198
+20,920,14852,Bowling Green,75,NA,NA,OH,3.4,18593,Bowling Green State University,public,202
+19,920,34576,Fullerton,48,NA,NA,CA,3.6,17460,California State University--Fullerton,public,202
+19,1030,3223,Dallas,43,NA,NA,TX,3.7,27480,Dallas Baptist University,private,202
+21,960,12847,Boston,69,NA,NA,MA,3.3,32985,University of Massachusetts--Boston,public,202
+21,970,18191,Reno,83,NA,NA,NV,3.6,21787,University of Nevada--Reno,public,202
+20,890,19923,Mount Pleasant,72,NA,NA,MI,3.4,23670,Central Michigan University,public,207
+20,970,22969,Greenville,70,NA,NA,NC,3.8,23420,East Carolina University,public,207
+19,900,7769,Tallahassee,31,NA,NA,FL,3.5,17725,Florida A&M University,public,207
+21,1010,14400,Bozeman,83,NA,NA,MT,3.4,23042,Montana State University,public,207
+19,950,7239,Fairbanks,73,NA,NA,AK,3.3,23534,University of Alaska--Fairbanks,public,207
+21,960,14622,Denver,61,NA,NA,CO,3.4,31209,University of Colorado--Denver,public,207
+20,910,6999,North Dartmouth,76,NA,NA,MA,3.2,28285,University of Massachusetts--Dartmouth,public,207
+20,950,10077,Missoula,92,NA,NA,MT,3.3,24943,University of Montana,public,207
+19,NA,18313,Kalamazoo,82,NA,NA,MI,3.3,14699,Western Michigan University,public,207
+23,1030,45813,Miami,49,NA,NA,FL,3.9,18956,Florida International University,public,216
+21,980,11281,Ruston,63,NA,NA,LA,3.7,18438,Louisiana Tech University,public,216
+20,890,10959,Brookings,91,NA,NA,SD,3.4,11403,South Dakota State University,public,216
+19,880,12182,Carbondale,77,NA,NA,IL,3.1,13936,Southern Illinois University--Carbondale,public,216
+25,1060,6507,Huntsville,76,NA,NA,AL,3.8,21480,University of Alabama--Huntsville,public,216
+21,980,11708,Kansas City,62,NA,NA,MO,3.4,25999,University of Missouri--Kansas City,public,216
+20,980,24838,Logan,90,NA,NA,UT,3.5,20726,Utah State University,public,216
+20,950,4536,Ashland,72,NA,NA,OH,3.4,20700,Ashland University,private,223
+20,NA,3171,Lisle,73,NA,NA,IL,3.4,33900,Benedictine University,private,223
+16,800,21528,Fresno,54,NA,NA,CA,3.5,17929,California State University--Fresno,public,223
+18,870,2362,Boiling Springs,52,NA,NA,NC,3.7,30740,Gardner-Webb University,private,223
+20,950,25455,Atlanta,53,NA,NA,GA,3.4,29432,Georgia State University,public,223
+19,880,2099,Winchester,88,NA,NA,VA,3.4,31920,Shenandoah University,private,223
+19,830,7500,Vermillion,88,NA,NA,SD,3,11688,University of South Dakota,public,223
+20,983,17280,Detroit,68,NA,NA,MI,3.4,28590,Wayne State University,public,223
+16,790,1424,Springfield,64,NA,NA,MA,NA,33140,American International College,private,NA
+NA,930,5133,Augusta,74,NA,NA,GA,NA,23606,Augusta University,public,NA
+18,850,3541,Miami Shores,62,NA,NA,FL,NA,29700,Barry University,private,NA
+20,910,20209,Boise,82,NA,NA,ID,3.4,22642,Boise State University,public,NA
+18,973,1534,Milwaukee,82,NA,NA,WI,3.1,28844,Cardinal Stritch University,private,NA
+18,820,3093,Atlanta,72,NA,NA,GA,3.2,23082,Clark Atlanta University,private,NA
+19,890,12433,Cleveland,88,NA,NA,OH,3.3,13848,Cleveland State University,public,NA
+19,910,17541,Ypsilanti,73,NA,NA,MI,3.3,11530,Eastern Michigan University,public,NA
+20,920,11065,Johnson City,80,NA,NA,TN,3.5,26463,East Tennessee State University,public,NA
+20,950,25402,Boca Raton,60,NA,NA,FL,4,21595,Florida Atlantic University,public,NA
+22,1030,18005,Statesboro,65,NA,NA,GA,3.3,18692,Georgia Southern University,public,NA
+NA,NA,NA,Phoenix,43,NA,NA,AZ,NA,17050,Grand Canyon University,proprietary,NA
+16,790,11202,Terre Haute,86,NA,NA,IN,3.1,19454,Indiana State University,public,NA
+NA,840,10618,Indiana,92,NA,NA,PA,NA,15882,Indiana University of Pennsylvania,public,NA
+16,810,7492,Jackson,69,NA,NA,MS,2.9,17614,Jackson State University,public,NA
+21,1000,32166,Kennesaw,59,NA,NA,GA,3.3,21158,Kennesaw State University,public,NA
+18,860,9326,Beaumont,76,NA,NA,TX,3.2,22561,Lamar University,public,NA
+21,950,47050,Lynchburg,28,NA,NA,VA,3.5,24304,Liberty University,private,NA
+20,920,7549,St. Charles,55,NA,NA,MO,3.3,16960,Lindenwood University,private,NA
+19,950,19693,Murfreesboro,69,NA,NA,TN,3.4,27578,Middle Tennessee State University,public,NA
+16,800,6362,Baltimore,60,NA,NA,MD,3,17833,Morgan State University,public,NA
+NA,NA,NA,Chicago,81,NA,NA,IL,NA,10380,National Louis University,private,NA
+18,850,9668,Greensboro,54,NA,NA,NC,3.5,19416,North Carolina A&T State University,public,NA
+20,940,26506,Flagstaff,78,NA,NA,AZ,3.6,24841,Northern Arizona University,public,NA
+19,NA,14079,DeKalb,52,NA,NA,IL,3.3,23817,Northern Illinois University,public,NA
+20,805,16568,Rochester,86,NA,NA,MI,3.4,24735,Oakland University,public,NA
+18,890,19793,Norfolk,85,NA,NA,VA,3.3,28200,Old Dominion University,public,NA
+19,930,21633,Portland,89,NA,NA,OR,3.4,21180,Portland State University,public,NA
+15,750,7455,Prairie View,85,NA,NA,TX,3,10059,Prairie View A&M University,public,NA
+19,920,3806,Virginia Beach,83,NA,NA,VA,3.5,17450,Regent University,private,NA
+19,870,17902,Huntsville,72,NA,NA,TX,NA,22340,Sam Houston State University,public,NA
+18,860,25945,San Francisco,68,NA,NA,CA,3.2,19134,San Francisco State University,public,NA
+18,NA,NA,Louisville,50,NA,NA,KY,NA,24388,Spalding University,private,NA
+16,788,7007,Nashville,53,NA,NA,TN,2.9,20178,Tennessee State University,public,NA
+21,960,9437,Cookeville,67,NA,NA,TN,3.6,26190,Tennessee Technological University,public,NA
+17,850,7605,Commerce,45,NA,NA,TX,3.3,20884,Texas A&M University--Commerce,public,NA
+17,850,10212,Corpus Christi,86,NA,NA,TX,3.3,26061,Texas A&M University--Corpus Christi,public,NA
+17,850,6811,Kingsville,82,NA,NA,TX,3.3,20912,Texas A&M University--Kingsville,public,NA
+15,715,6562,Houston,51,NA,NA,TX,2.9,21240,Texas Southern University,public,NA
+20,930,34244,San Marcos,71,NA,NA,TX,NA,23071,Texas State University,public,NA
+17,820,10408,Denton,86,NA,NA,TX,3.1,21816,Texas Woman's University,public,NA
+19,930,2092,Nashville,72,NA,NA,TN,3.4,25100,Trevecca Nazarene University,private,NA
+19,880,1076,Deerfield,88,NA,NA,IL,3.2,30750,Trinity International University,private,NA
+19,910,17416,Akron,96,NA,NA,OH,3.3,21863,University of Akron,public,NA
+19,930,9374,Little Rock,77,NA,NA,AR,3.1,19797,University of Arkansas--Little Rock,public,NA
+21,940,15998,Lafayette,52,NA,NA,LA,3.3,23074,University of Louisiana--Lafayette,public,NA
+19,920,7778,Monroe,86,NA,NA,LA,3.5,20381,University of Louisiana--Monroe,public,NA
+17,790,3278,Princess Anne,38,NA,NA,MD,2.9,18048,University of Maryland--Eastern Shore,public,NA
+19,890,17176,Memphis,94,NA,NA,TN,3.4,21413,University of Memphis,public,NA
+21,940,13923,St. Louis,71,NA,NA,MO,3.4,27327,University of Missouri--St. Louis,public,NA
+19,930,12536,Omaha,86,NA,NA,NE,3.4,22035,University of Nebraska--Omaha,public,NA
+19,900,24714,Las Vegas,83,NA,NA,NV,3.3,21498,University of Nevada--Las Vegas,public,NA
+20,950,6442,New Orleans,60,NA,NA,LA,3.2,13530,University of New Orleans,public,NA
+21,910,16281,Greensboro,74,NA,NA,NC,3.8,22410,University of North Carolina--Greensboro,public,NA
+19,930,9503,Greeley,90,NA,NA,CO,3.3,20474,University of Northern Colorado,public,NA
+20,980,31209,Denton,72,NA,NA,TX,NA,23716,University of North Texas,public,NA
+20,875,11761,Mobile,80,NA,NA,AL,3.5,19586,University of South Alabama,public,NA
+20,940,11779,Hattiesburg,60,NA,NA,MS,3.3,9854,University of Southern Mississippi,public,NA
+20,950,32775,Arlington,70,NA,NA,TX,NA,25152,University of Texas--Arlington,public,NA
+17,810,20521,El Paso,100,NA,NA,TX,3.2,21396,University of Texas--El Paso,public,NA
+18,850,24433,Edinburg,63,NA,NA,TX,NA,17230,University of Texas--Rio Grande Valley,public,NA
+20,920,24724,San Antonio,76,NA,NA,TX,NA,23379,University of Texas--San Antonio,public,NA
+19,860,3082,Williamsburg,71,NA,NA,KY,3.5,23000,University of the Cumberlands,private,NA
+20,920,16247,Toledo,94,NA,NA,OH,3.4,18578,University of Toledo,public,NA
+21,930,10082,Pensacola,41,NA,NA,FL,3.6,18628,University of West Florida,public,NA
+18,870,11155,Carrollton,59,NA,NA,GA,3.2,20406,University of West Georgia,public,NA
+20,NA,21375,Milwaukee,72,NA,NA,WI,3.1,19851,University of Wisconsin--Milwaukee,public,NA
+19,890,8780,Valdosta,65,NA,NA,GA,3.2,17196,Valdosta State University,public,NA
+21,915,11823,Wichita,92,NA,NA,KS,3.4,17270,Wichita State University,public,NA
+18,930,12504,Dayton,95,NA,NA,OH,3.3,17350,Wright State University,public,NA
+NA,NA,1264,San Diego,NA,NA,NA,CA,2.8,17510,Alliant International University,private,NA
+NA,NA,NA,Orange,NA,NA,NA,CA,NA,13152,Argosy University,proprietary,NA
+NA,NA,NA,San Francisco,NA,NA,NA,CA,NA,28467,California Institute of Integral Studies,private,NA
+NA,NA,NA,Minneapolis,NA,NA,NA,MN,NA,13998,Capella University,proprietary,NA
+NA,NA,NA,Pocatello,NA,NA,NA,ID,NA,21023,Idaho State University,public,NA
+NA,NA,133,San Diego,NA,NA,NA,AZ,NA,10368,Northcentral University,proprietary,NA
+NA,NA,NA,Cypress,96,NA,NA,CA,NA,9000,Trident University International,proprietary,NA
+NA,NA,NA,Cincinnati,NA,NA,NA,OH,NA,12416,Union Institute and University,private,NA
+NA,NA,NA,Phoenix,NA,NA,NA,AZ,NA,9690,University of Phoenix,proprietary,NA
+NA,NA,NA,Minneapolis,NA,NA,NA,MN,NA,12075,Walden University,proprietary,NA
+NA,NA,8873,New Castle,100,NA,NA,DE,NA,10940,Wilmington University,private,NA
