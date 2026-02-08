@@ -1,0 +1,52 @@
+state,d_percent,r_percent,ec_weight
+alabama,37,62,9
+alaska,44,55,3
+arizona,50,49,11
+arkansas,35,64,6
+california,64,35,55
+colorado,56,43,9
+connecticut,60,39,7
+delaware,59,40,3
+district of columbia,94,5,3
+florida,48,51,29
+georgia,50,49,16
+hawaii,65,34,4
+idaho,34,65,4
+illinois,58,41,20
+indiana,41,58,11
+iowa,45,54,6
+kansas,42,57,6
+kentucky,36,63,8
+louisiana,40,59,8
+maine,54,45,4
+maryland,67,32,10
+massachusetts,67,32,11
+michigan,51,48,16
+minnesota,53,46,10
+mississippi,41,58,6
+missouri,42,57,10
+montana,41,58,3
+nebraska,40,59,5
+nevada,51,48,6
+new hampshire,53,46,4
+new jersey,58,41,14
+new mexico,55,44,5
+new york,61,38,29
+north carolina,49,50,15
+north dakota,32,67,3
+ohio,45,54,18
+oklahoma,33,66,7
+oregon,58,41,7
+pennsylvania,50,49,20
+rhode island,60,39,4
+south carolina,44,55,9
+south dakota,36,63,3
+tennessee,38,61,11
+texas,47,52,38
+utah,39,60,6
+vermont,68,31,3
+virginia,55,44,13
+washington,59,40,12
+west virginia,30,69,5
+wisconsin,50,49,10
+wyoming,27,72,3
